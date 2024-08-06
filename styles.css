@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 50px;
+}
+
+img {
+    border-radius: 3%;
+    box-shadow: 1px 1px 3px black;
+}
+
+ul li, ol li {
+    margin-top: 1%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
